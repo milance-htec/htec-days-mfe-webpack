@@ -1,6 +1,6 @@
 {
   "name": "@mnm-tech/react-scripts",
-  "version": "1.1.1-beta.5",
+  "version": "1.0.0",
   "description": "Configuration and scripts for Create React App using Webpack 5.",
   "repository": {
     "type": "git",
